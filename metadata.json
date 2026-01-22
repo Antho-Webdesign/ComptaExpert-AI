@@ -1,0 +1,7 @@
+{
+  "name": "ComptaExpert AI",
+  "description": "Assistant de comptabilité française intelligent utilisant Gemini 3 Pro pour aider les entrepreneurs et comptables à naviguer dans le Plan Comptable Général (PCG) et la fiscalité française.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
